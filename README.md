@@ -1,2 +1,3 @@
-# University of Santo Tomas Mathematics
-## Industry Connect
+# Industry Connect
+## Actuarial Science | Computer Science
+### University of Santo Tomas Mathematics
